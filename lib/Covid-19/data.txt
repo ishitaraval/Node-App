@@ -1,0 +1,27 @@
+ACTIVE CASES: ,
+       COUNTRY NAME:USA, 
+       LAST UPDATE: 2021-07-23 09:04,
+        NEW CASES:, 
+        NEW DEATHS: ,
+        TOTAL CASES: 35,213,594,
+        TOTAL DEATHS: 626,172,
+        TOTAL RECOVERED: 29,478,173
+        
+ACTIVE CASES: +7,775,
+        COUNTRY NAME:India, 
+        LAST UPDATE: 2021-07-23 09:04,
+        NEW CASES:+1,358, 
+        NEW DEATHS: ,
+        TOTAL CASES: 31,293,062,
+        TOTAL DEATHS: 419,502,
+        TOTAL RECOVERED: 30,468,079
+        
+ACTIVE CASES: +55,360,
+        COUNTRY NAME:World, 
+        LAST UPDATE: 2021-07-23 09:04,
+        NEW CASES:+88,386, 
+        NEW DEATHS: +1,575,
+        TOTAL CASES: 193,463,272,
+        TOTAL DEATHS: 4,152,562,
+        TOTAL RECOVERED: 175,768,109
+        
