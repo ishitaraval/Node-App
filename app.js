@@ -1,6 +1,6 @@
 var fs = require("fs");
 var dataLib = require("./lib/Covid-19");
-var axios = require("axios").default;
+const axios = require("axios");
 
 
 
